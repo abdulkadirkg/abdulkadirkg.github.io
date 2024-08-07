@@ -1,0 +1,27 @@
+[
+  {
+    "localId": "id",
+    "ids": [],
+    "name": "Adalet Bakanlığı"
+  },
+  {
+    "localId": "id2",
+    "ids": [],
+    "name": "Giresun Belediyesi"
+  },
+  {
+    "localId": "id3",
+    "ids": [],
+    "name": "Ardahan Belediyesi"
+  },
+  {
+    "localId": "id4",
+    "ids": [],
+    "name": "İstanbul Büyükşehir Belediyesi"
+  },
+  {
+    "localId": "id5",
+    "ids": [],
+    "name": "Isparta Belediyesi"
+  }
+]
